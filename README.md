@@ -3,5 +3,5 @@ Used the talys program to simulate neutron capture in tin and other nuclei to in
 
 ## Highlights:
 
-### $^{119}Sn(n,\gamma)^{120}'$Sn
+$^{119}$Sn(n,$\gamma$)$^{120}$Sn
 ![GSFcurvefit](https://github.com/user-attachments/assets/c7300b0a-27a4-4cee-850b-5b3fed8b9ff0)
