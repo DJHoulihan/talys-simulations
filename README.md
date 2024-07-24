@@ -11,4 +11,9 @@ Used the talys program to simulate neutron capture in tin and other nuclei to in
 <img src="https://github.com/user-attachments/assets/70604594-8d8e-402a-9bf4-86473b5b7792" alt="xsPDRcomp" width="300" height="200"/>
 <img src="https://github.com/user-attachments/assets/d47c13fb-34b9-431a-a015-d9cc29e7bc84" alt="reactionratecomp" width="300" height="200"/>
 
+Conclusions:
+- Varied TALYS inputs to see which models best reproduced the data.
+- Level density and OMP inputs had minimal influence on TALYS results. The GSF was the dominant input. 
+- Including PDR parameters gave a better fit to the GSF but shifted the predicted cross section and reaction rates upwards significantly.
+
 ### Using emcee (bayesian approach)
