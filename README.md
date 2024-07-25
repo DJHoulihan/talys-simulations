@@ -17,6 +17,6 @@ Conclusions:
 - Including PDR parameters gave a better fit to the GSF but shifted the predicted cross section and reaction rates upwards significantly.
 
 ### Using emcee (bayesian approach)
-<img src="https://github.com/user-attachments/assets/808ef26a-e5b9-4105-af2e-9316812be932" alt="timeseriesplot" width="600" height="400">
-<img src="https://github.com/user-attachments/assets/3c196486-b32a-48b4-b80f-366afe4ecd3d" alt="cornerplot" width="600" height="400">
-<img src="https://github.com/user-attachments/assets/59ef2780-5b91-4465-914d-63c29b30d43b" alt="projectionsoftests" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/808ef26a-e5b9-4105-af2e-9316812be932" alt="timeseriesplot" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/3c196486-b32a-48b4-b80f-366afe4ecd3d" alt="cornerplot" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/59ef2780-5b91-4465-914d-63c29b30d43b" alt="projectionsoftests" width="300" height="200">
